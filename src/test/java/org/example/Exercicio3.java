@@ -27,7 +27,6 @@ public class Exercicio3 {
     }
 
 
-
     @Test
     void testSubtract() {
         //Execution
@@ -36,7 +35,5 @@ public class Exercicio3 {
         //Assertion
         Assertions.assertEquals(this.expectedResult, actualResult);
     }
-
-
 
 }
